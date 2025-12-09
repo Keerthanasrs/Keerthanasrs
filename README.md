@@ -1,4 +1,4 @@
-                            ## Hi👋,I'M KEERTHANA S 
+## Hi👋,I'M KEERTHANA S 
 
 # 💫 About Me:
 I'M CSE STUDENT
