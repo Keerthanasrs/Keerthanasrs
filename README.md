@@ -1,56 +1,22 @@
-# 👋 Hi, I’m **Keerthana S**
+## Hi👋,I'M KEERTHANA S 
+---
+# 💫 About Me:
+I'M CSE STUDENT
 
-### 👩‍💻 CSE Student @ SJCE (JSS Science & Technology University), Mysuru  
 
-I’m passionate about building things on the web, learning new technologies, and trying out fun projects like games and utilities. I enjoy combining logic with creative design. 🚀 :contentReference[oaicite:2]{index=2}
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KEERTHANA S) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Keerthanasrs&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Keerthanasrs&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanasrs&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Keerthanasrs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Keerthanasrs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔎 About Me
-
-- 🎓 **CSE Undergraduate** at SJCE Mysuru  
-- 💻 Exploring **Web Development** & **Game Logic**  
-- 🧠 Always learning **new tools, frameworks & best practices**  
-- ✨ I build small games and interactive projects
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 **Hidden Blast**
-A turn-based prediction game where you pick a hidden bomb and try to outsmart the computer.  
-🔗 **Live Demo:** https://hiddenblast.netlify.app/  
-📦 **GitHub:** https://github.com/Keerthanasrs/hidden-blast *(or your exact repo link)*
-
-*(Add more projects below when you have them)*
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![Keerthana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthanasrs&show_icons=true&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/keerthana-s-3133a5327/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Keerthanasrs"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p> :contentReference[oaicite:3]{index=3}
-
----
-
-### 💡 Fun Fact
-I enjoy learning by building things — especially interactive projects that mix logic and creativity!
