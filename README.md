@@ -52,15 +52,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanasrs&theme=vue-dark&layout=compact&hide_border=false" />
 </p>
 
----
-
-### 🏆 Achievements:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Keerthanasrs&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Keerthanasrs&icon=0&color=0" />
-</p>
